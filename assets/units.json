@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Flag",
+        "kill_marshal": false,
+        "defuse_bombs": false,
+        "move_limit": 0
+    },
+    {
+        "name": "Spy",
+        "kill_marshal": true,
+        "defuse_bombs": false,
+        "move_limit": 1
+    },
+    {
+        "name": "Scout",
+        "kill_marshal": false,
+        "defuse_bombs": false,
+        "move_limit": null
+    },
+    {
+        "name": "Miner",
+        "kill_marshal": false,
+        "defuse_bombs": true,
+        "move_limit": 1
+    },
+    {
+        "name": "Sergeant",
+        "kill_marshal": false,
+        "defuse_bombs": false,
+        "move_limit": 1
+    },
+    {
+        "name": "Lieutenant",
+        "kill_marshal": false,
+        "defuse_bombs": false,
+        "move_limit": 1
+    }, 
+    {
+        "name": "Captain",
+        "kill_marshal": false,
+        "defuse_bombs": false,
+        "move_limit": 1
+    },
+    {
+        "name":  "Major",
+        "kill_marshal": false,
+        "defuse_bombs": false,
+        "move_limit": 1
+    },
+    {
+        "name": "Colonel",
+        "kill_marshal": false,
+        "defuse_bombs": false,
+        "move_limit": 1
+    }, 
+    {
+        "name": "General",
+        "kill_marshal": false,
+        "defuse_bombs": false,
+        "move_limit": 1
+    },
+    {
+        "name": "Marshal",
+        "kill_marshal": false,
+        "defuse_bombs": false,
+        "move_limit": 1
+    },
+    {
+        "name": "Bomb",
+        "kill_marshal": false,
+        "defuse_bombs": false,
+        "move_limit": 0
+    }
+]
